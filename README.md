@@ -1,2 +1,2 @@
 # taiko-charts
-TaikoNauts用の譜面ZIP
+太鼓シミュ用の譜面ZIP
